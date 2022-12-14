@@ -5,45 +5,45 @@ export default createStore({
         products: [
             {
                 id: 1,
-                name: "Chelsea Shoes",
-                price: 200,
-                shortdesc: "Best Drip in the Market",
-                url: "images/chelsea-shoes.png"
+                name: "Canadian Logo Patch Cap - Blue",
+                price: 210,
+                shortdesc: "Canadian logo patch cap",
+                url: "images/canadian_logo_cap.png"
             },
             {
                 id: 2,
-                name: "Kimono",
-                price: 50,
-                shortdesc: "Classy, Stylish, Dope",
-                url: "images/kimono.png"
+                name: "Tigers Print GG Supreme baseball cap - Neutrals",
+                price: 350,
+                shortdesc: "Tiger Print Supreme",
+                url: "images/baseball_cap.png"
             },
             {
                 id: 3,
                 name: "Watch",
                 price: 2500,
                 shortdesc: "Elegance built in",
-                url: "images/rolex.png"
+                url: "images/watch.png"
             },
             {
                 id: 4,
-                name: "Wallet",
+                name: "adidas-Sneakers",
                 price: 80,
-                shortdesc: "Sleek, Trendy, Clean",
-                url: "images/wallet.png"
+                shortdesc: "Cool, light, Clean",
+                url: "images/Sneakers.png"
             },
             {
                 id: 5,
-                name: "Lady Handbags",
-                price: 230,
-                shortdesc: "Fabulous, Exotic, Classy",
-                url: "images/handbag.png"
+                name: "Men's Leather Clutch Bag",
+                price: 750,
+                shortdesc: "Fabulous, Comfortable",
+                url: "images/clutch_bag.png"
             },
             {
                 id: 6,
-                name: "Casual Shirts",
-                price: 30,
-                shortdesc: "Neat, Sleek, Smart",
-                url: "images/shirt.png"
+                name: "Gucci Double G snake buckle belt - Black",
+                price: 690,
+                shortdesc: "Neet, Awesome",
+                url: "images/belt.png"
             }
         ],
         cart: []
